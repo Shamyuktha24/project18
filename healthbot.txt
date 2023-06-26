@@ -1,1 +1,1 @@
-https://webchat.botframe.com/embed/healthbot-npydrkp?==wGD90uQE8LE.jG-pvdPc9lHLFsdWW-tubZPTLkH7zOqIJahhEp4eRqY style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+<iframe src='https://webchat.botframework.com/embed/healthbot-npydrkps=<iframe src='https://webchat.botframework.com/embed/frtdemojb?s=YOUR_SECRET_HERE'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe> 
